@@ -7,7 +7,7 @@
     <table class="table table-bordered">
         <tr>
             <th>id</th>
-            <th>{{ $message->id }}</th>
+            <td>{{ $message->id }}</td>
         </tr>
         <tr>
             <th>メッセージ</th>
